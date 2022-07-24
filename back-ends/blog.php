@@ -1,4 +1,4 @@
-
+<?php include 'categories.php'; ?>
 <!DOCTYPE php>
 <php lang="en">
 
