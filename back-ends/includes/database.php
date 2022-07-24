@@ -2,9 +2,9 @@
 class database{
 
 	//DB Params
-	private $dns = "mysql:host=b6uwtwasnlgiearhpn21-mysql.services.clever-cloud.com;dbname=b6uwtwasnlgiearhpn21";
-	private $username = "u6udlpcx13c1akxn";
-	private $password = "CXSx8mJRjRzqvplBlIUl";
+	private $dns = "mysql:host=bsqmesbs7p3ghpu22jjh-mysql.services.clever-cloud.com;dbname=bsqmesbs7p3ghpu22jjh";
+	private $username = "u2ybjmdqswaweszh";
+	private $password = "TbqsCxA2WCjnt5wOmKPy";
 	private $conn;
 
 	//DB Connect
